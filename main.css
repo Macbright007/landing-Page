@@ -1,0 +1,7 @@
+.navList{
+    margin: auto!important;
+}
+.navList li a{
+    margin-left: 30px;
+    font-size: 18px;
+}
